@@ -1,0 +1,1 @@
+pip install nltk scikit-learn pandas numpy beautifulsoup4 requests
